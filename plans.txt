@@ -1,0 +1,13 @@
+main page => upload bill and add participant names
+
+then 
+
+review page => text area with recognised text and editable 
+
+then 
+
+selection page => select who ate what 
+
+then 
+
+display page => calculate and display everything 

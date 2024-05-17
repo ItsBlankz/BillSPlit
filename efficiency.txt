@@ -1,0 +1,13 @@
+Passed:
+0
+11
+
+Failed:
+3 (Discount)
+4 (Round Off)
+5 (Round Off)
+6 (Pizza Slice amout, Virgin mojito -> took total price as price per item bcoz no price item field in the bill)
+7 (Items messed up maybe due to the skew of the bill)
+10 (End of bill not processed properly)
+12 (Rate per item messed up the total bill again)
+13 (The processed image was not good enough)

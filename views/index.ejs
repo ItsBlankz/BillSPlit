@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BillSplit</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="/css/home.css">
+    <script defer src="/js/test.js"></script>
+</head>
+<body>
+    <form action="/" enctype="multipart/form-data" id="mainForm">
+        <label for="participantInp">Add Participant</label>
+        <input type="text" id="participantInp">
+        <button type="button" id="addParticipantBtn">Add Participant</button>
+        <ul id="participantList"></ul>
+        <label for="billImageInp">Upload Bill Image</label>
+        <input type="file" accept=".png, .jpg, .jpeg" name="billImage" id="billImageInp">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

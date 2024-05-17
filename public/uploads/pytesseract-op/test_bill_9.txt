@@ -1,0 +1,27 @@
+Crew ID 1 - Kiosk User
+INV #001032600002298
+DATE & TIME: 14/05/2024 12:37:20
+
+Buy any 2 McVeggie or Mc Ch -43.40
+1 VM R MCCHICKEN 141.90
+1 Sml Fanta
+1 No Selection
+1 Chicken 132.38
+
+Buy any 2 MeVeggie or Mc Ch -37.68
+
+1 Soft Serve Oreo 34,29
+Sub-Total 365.59
+CGST 2.5% 9.14
+SGST 2.5% 9.14
+Eat-In Total 383.87
+BharatUPI BharatUPI 383.87
+
+Transaction Date - 14/05/2024 12:37:20
+
+GSTIN -
+
+FSSAI License No - 11214334001395
+GST Classification -
+Restaurant Services SAC-996331
+We value vour feedback. Share it
